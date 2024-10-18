@@ -2,7 +2,7 @@
 <H5>Register No.: 212221230109 </H5>
 <H5> Experiment 1 </H5>
 <H5> DATE: 04.09.24</H5>
-<H1 align-item="center"> Implementation of Bayesian Networks </H1>
+<H2> <p align="center"> Implementation of Bayesian Networks </p> </H2>
 
 ## Aim :
 To create a bayesian Network for the given dataset in Python
